@@ -1,4 +1,4 @@
-# 深海
+# vue-deepseek-chat
 
 基于 Vue 3、TypeScript、Vite、Element Plus 和 UnoCSS 构建的 深海 简易对话应用。
 
@@ -31,7 +31,7 @@ VITE_APP_API_KEY=sk-************************
 
 ## 演示
 
-![流式回复](./docs/image-sse)
+![流式回复](./docs/image-sse.png)
 ![推理内容](./docs/image2.png)
 ![代码与公式](./docs/image3.png)
 ![会话管理](./docs/image4.png)
