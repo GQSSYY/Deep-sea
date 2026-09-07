@@ -31,7 +31,20 @@ VITE_APP_API_KEY=sk-************************
 
 ## 演示
 
-![流式回复](./docs/image-sse.png)
-![推理内容](./docs/image2.png)
-![代码与公式](./docs/image3.png)
-![会话管理](./docs/image4.png)
+## 演示
+
+### 1. 多轮对话与训练目标表格生成
+
+![多轮对话与训练目标表格生成](./docs/image-sse.png)
+
+### 2. DeepSeek 深度思考与复杂公式生成
+
+![DeepSeek 深度思考与复杂公式生成](./docs/image2.png)
+
+### 3. Markdown、代码高亮与数学公式
+
+![Markdown、代码高亮与数学公式](./docs/image3.png)
+
+### 4. 会话历史管理
+
+![会话历史管理](./docs/image4.png)
