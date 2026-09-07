@@ -1,4 +1,4 @@
-# vue-deepseek-chat
+# 深海
 
 基于 Vue 3、TypeScript、Vite、Element Plus 和 UnoCSS 构建的 深海 简易对话应用。
 
